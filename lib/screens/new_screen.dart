@@ -11,7 +11,9 @@ class _NewScreenState extends State<NewScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+body: Column(
 
+),
     );
   }
 }
